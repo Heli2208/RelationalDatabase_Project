@@ -64,8 +64,8 @@ namespace MovieTheaterApp
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("   MOVIE THEATER TICKET BOOKING SYSTEM     ");
-                Console.WriteLine("         MAIN MENU        ");
+                Console.WriteLine(" MOVIE THEATER TICKET BOOKING SYSTEM     ");
+                Console.WriteLine(" MAIN MENU        ");
                 Console.WriteLine(" 1. Customer Management ");
                 Console.WriteLine(" 2. Movie Management ");
                 Console.WriteLine(" 3. Showtime Management ");
@@ -120,7 +120,7 @@ namespace MovieTheaterApp
         static void ViewTeamData()
         {
             Console.Clear();
-            Console.WriteLine("           PROJECT TEAM DATA                ");
+            Console.WriteLine(" PROJECT TEAM DATA ");
 
             Console.WriteLine(" TEAM MEMBERS:");
             Console.WriteLine("   1. Heli Patel");
@@ -183,7 +183,7 @@ namespace MovieTheaterApp
         static void ExitProgram()
         {
             Console.Clear();
-            Console.WriteLine("       THANK YOU FOR USING OUR SYSTEM!      ");
+            Console.WriteLine(" THANK YOU FOR USING OUR SYSTEM! ");
 
             Console.WriteLine("Project Team Members:");
             Console.WriteLine("1. Heli Patel");
@@ -194,7 +194,7 @@ namespace MovieTheaterApp
             Console.WriteLine("Semester: Fall 2025\n");
 
             Console.WriteLine("Database: MySQL");
-            Console.WriteLine("Programming Language: C# with ADO.NET\n");
+            Console.WriteLine("Programming Language: C# with.NET\n");
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
